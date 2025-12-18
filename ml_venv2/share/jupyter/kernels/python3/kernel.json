@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/kartikaybhardwaj/ml_project_01/ml_venv2/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
